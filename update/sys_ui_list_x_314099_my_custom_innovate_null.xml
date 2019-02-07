@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_314099_my_custom_innovate" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_314099_my_custom_innovate" element="NULL" name="x_314099_my_custom_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1da686437632300cd91435973990ed3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-07 10:40:03</sys_created_on>
+            <sys_id>fdda686437632300cd91435973990ed3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-07 10:40:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_description</element>
+            <list_id display_value="x_314099_my_custom_innovate" element="NULL" name="x_314099_my_custom_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1da686437632300cd91435973990ed3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-07 10:40:03</sys_created_on>
+            <sys_id>75da686437632300cd91435973990ed4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-07 10:40:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_idea_type</element>
+            <list_id display_value="x_314099_my_custom_innovate" element="NULL" name="x_314099_my_custom_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1da686437632300cd91435973990ed3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-07 10:40:03</sys_created_on>
+            <sys_id>f5da686437632300cd91435973990ed4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-07 10:40:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_short_description</element>
+            <list_id display_value="x_314099_my_custom_innovate" element="NULL" name="x_314099_my_custom_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1da686437632300cd91435973990ed3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-07 10:40:03</sys_created_on>
+            <sys_id>79da686437632300cd91435973990ed4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-07 10:40:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_314099_my_custom_innovate</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-07 10:40:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1da686437632300cd91435973990ed3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_314099_my_custom_innovate</sys_name>
+            <sys_package display_value="Innovate" source="x_314099_my_custom">99d024ac37232300cd91435973990ed4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">99d024ac37232300cd91435973990ed4</sys_scope>
+            <sys_update_name>sys_ui_list_x_314099_my_custom_innovate_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-07 10:40:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
